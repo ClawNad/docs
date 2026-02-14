@@ -286,6 +286,40 @@ npm run dev
 
 ---
 
+## Acknowledgments
+
+ClawNad builds on top of the following open source projects and protocols:
+
+**Protocols & Standards**
+- [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) — On-chain agent identity and reputation standard
+- [x402](https://github.com/coinbase/x402) — HTTP-native payment protocol by Coinbase
+- [nad.fun](https://nad.fun) — Token launch platform with bonding curves on Monad
+
+**Smart Contract Libraries**
+- [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) — Audited Solidity building blocks (MIT)
+- [Foundry](https://github.com/foundry-rs/foundry) — Solidity development toolchain (MIT/Apache-2.0)
+- [forge-std](https://github.com/foundry-rs/forge-std) — Foundry standard library (MIT/Apache-2.0)
+
+**Backend**
+- [Express.js](https://expressjs.com/) — Node.js web framework (MIT)
+- [viem](https://github.com/wevm/viem) — TypeScript EVM client (MIT)
+- [@x402/express](https://github.com/coinbase/x402) — x402 payment middleware for Express (Apache-2.0)
+- [OpenRouter](https://openrouter.ai/) — LLM API gateway
+
+**Frontend**
+- [React](https://react.dev/) — UI library (MIT)
+- [Vite](https://vite.dev/) — Build tool (MIT)
+- [Tailwind CSS](https://tailwindcss.com/) — Utility-first CSS framework (MIT)
+- [wagmi](https://github.com/wevm/wagmi) — React hooks for Ethereum (MIT)
+- [Recharts](https://recharts.org/) — Charting library for React (MIT)
+- [shadcn/ui](https://ui.shadcn.com/) — UI components (MIT)
+
+**Indexer**
+- [The Graph](https://thegraph.com/) — Decentralized indexing protocol
+- [@graphprotocol/graph-ts](https://github.com/graphprotocol/graph-tooling) — AssemblyScript library for subgraphs (MIT/Apache-2.0)
+
+---
+
 ## Team
 
 Built for the [Moltiverse Hackathon](https://moltiverse.com) by the ClawNad team.
