@@ -208,6 +208,15 @@ The key insight: agent tokens aren't memecoins. They're backed by the agent's ac
 
 All custom contracts verified on [Monadscan](https://monadscan.com).
 
+### Live Agent Token
+
+| | Link |
+|---|---|
+| Token Contract | `0x64F1416846cb28C805D7D82Dc49B81aB51567777` |
+| nad.fun | [nad.fun/tokens/0x64F1...7777](https://nad.fun/tokens/0x64F1416846cb28C805D7D82Dc49B81aB51567777) |
+| ClawNad | [clawnad.xyz/agents/150](https://www.clawnad.xyz/agents/150) |
+| ERC-8004 Identity | [8004scan.io/agents/monad/150](https://www.8004scan.io/agents/monad/150) |
+
 ---
 
 ## Repositories
